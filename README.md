@@ -1,4 +1,5 @@
-# 👋 Hi there, I'm Bachtiar Aryansyah Putra (Arya)
+# Bachtiar Aryansyah Putra
+
 <p align="left">
   <a href="https://www.linkedin.com/in/bachtiar-aryansyah-putra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:aryansyah1509@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -7,15 +8,15 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 **Undergraduate Informatics Student** at **Universitas Negeri Surabaya (UNESA)** (2022 – Present) | **GPA: 3.85 / 4.00**
-- 🏛️ **Frontend Developer & Social Media Creative Intern** at **Dinas Komunikasi dan Informatika (Diskominfo) Kota Surabaya**
-- 🏢 **Digital Strategist & Marketer** at **Tiar Property** (Surabaya - Sidoarjo)
-- 🚀 Passionate in **Full-Stack Web Development**, **Modern JavaScript/TypeScript Frameworks**, **Autonomous Agent Architectures**, and **Data-Driven Digital Strategy**.
+### About Me
+- **Undergraduate Informatics Student** at **Universitas Negeri Surabaya (UNESA)** (2022 – Present) | **GPA: 3.85 / 4.00**
+- **Frontend Developer & Social Media Creative Intern** at **Dinas Komunikasi dan Informatika (Diskominfo) Kota Surabaya**
+- **Digital Strategist & Performance Marketer** at **Tiar Property** (Surabaya - Sidoarjo)
+- Experienced in **Full-Stack Web Development**, **Modern JavaScript/TypeScript Frameworks (Next.js, React, Node.js)**, **Autonomous Agent Systems**, and **Data-Driven Digital Strategy**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Technical Skills
 
 <table>
   <tr>
@@ -62,22 +63,22 @@
 
 ---
 
-### 💼 Experience & Projects
+### Experience & Projects
 
-#### 🏛️ **Frontend Developer & Social Media Creative Intern** — *Diskominfo Kota Surabaya* `(Sep 2024 – Present)`
+#### **Frontend Developer & Social Media Creative Intern** — *Diskominfo Kota Surabaya* `(Sep 2024 – Present)`
 - Developing and maintaining responsive web interfaces for municipal digital services.
-- Designing high-engagement social media content & carousel assets for official Surabaya municipal communication channels.
+- Designing high-engagement social media content and carousel communication assets for official Surabaya municipal platforms.
 
-#### 🏢 **Digital Marketer & Strategist** — *Tiar Property* `(Sep 2025 – Present)`
-- Formulating and managing end-to-end Meta Ads campaigns for commercial residential developments in Surabaya & Sidoarjo.
-- Establishing conversational qualification funnels, landing pages, and lead pipeline management.
+#### **Digital Marketer & Strategist** — *Tiar Property* `(Sep 2025 – Present)`
+- Formulating and managing end-to-end Meta Ads campaigns for residential properties in Surabaya and Sidoarjo.
+- Establishing conversational qualification funnels, landing pages, and lead pipeline automation.
 
-#### 🚀 **Featured Project: Next.js & React Full-Stack Platforms**
+#### **Featured Project: Full-Stack Web Applications**
 - Scalable, performant responsive web apps built with Next.js App Router, Tailwind CSS, TypeScript, and modern API integrations.
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=arstate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arya's GitHub Stats" width="48%" />
@@ -87,6 +88,6 @@
 ---
 
 <p align="center">
-  <b>Let's connect and build something impactful together!</b><br>
-  📍 <i>Surabaya, East Java, Indonesia</i> • 📧 <i>aryansyah1509@gmail.com</i>
+  <b>Contact & Socials</b><br>
+  Surabaya, East Java, Indonesia • aryansyah1509@gmail.com
 </p>
