@@ -81,8 +81,7 @@
 ### GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=arstate&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arya's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arstate&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arstate&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
 </p>
 
 ---
