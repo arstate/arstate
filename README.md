@@ -78,11 +78,26 @@
 
 ---
 
-### GitHub Analytics
+### GitHub Activity Overview
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arstate&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arstate&theme=tokyonight" alt="Profile Details" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arstate&theme=tokyonight" alt="Repos Per Language" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arstate&theme=tokyonight" alt="Most Commit Language" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arstate&theme=tokyonight" alt="GitHub Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
